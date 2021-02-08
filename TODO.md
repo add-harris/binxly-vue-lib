@@ -1,0 +1,2 @@
+- check if ./componeents/index.js can be removed
+- check only targeted files are uploaded to npm
