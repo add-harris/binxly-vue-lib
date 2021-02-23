@@ -1,12 +1,12 @@
 {
-  "name": "binxley-vue-lib",
+  "name": "binxly-vue-lib",
   "version": "0.1.0",
   "private": true,
-  "main": "./dist/binxley-vue-lib.common.js",
+  "main": "./dist/binxly-vue-lib.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "build-lib": "vue-cli-service build --target lib --name binxley-vue-lib src/main.js",
+    "build-lib": "vue-cli-service build --target lib --name binxly-vue-lib src/main.js",
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {

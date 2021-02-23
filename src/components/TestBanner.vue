@@ -1,6 +1,6 @@
 <template>
 
-    <h1 class="test-banner">Binxley Test Library Works</h1>
+    <h1 class="test-banner">Binxly Test Library Works</h1>
 
 </template>
 

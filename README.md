@@ -1,4 +1,4 @@
-# binxley-vue-lib
+# binxly-vue-lib
 
 ## Project setup
 ```
