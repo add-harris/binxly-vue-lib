@@ -1,24 +1,31 @@
 # binxly-vue-lib
 
-## Project setup
-```
-npm install
+Common Vue components library.
+
+## Install
+
+```shell
+npm i binxly-vue-lib
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
+## Project Readme
+
+### Build Library
+
+```shell
+npm run build-lib
 ```
 
-### Compiles and minifies for production
-```
-npm run build
+### Publish Library
+
+```shell
+npm login
+npm publish
 ```
 
-### Run your unit tests
-```
-npm run test:unit
-```
+### Test Publsih
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```shell
+npm pack
+# check ontents of generated tar binxly-vue-lib-*.tgz
+```

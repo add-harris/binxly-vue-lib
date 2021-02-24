@@ -1,7 +1,6 @@
 {
   "name": "binxly-vue-lib",
   "version": "0.1.0",
-  "private": true,
   "main": "./dist/binxly-vue-lib.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -22,6 +21,7 @@
   },
   "files": [
     "dist/*",
+    "src/components/*",
     "package.json"
   ]
 }
