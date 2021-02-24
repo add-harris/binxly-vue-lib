@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "build-lib": "vue-cli-service build --target lib --name binxly-vue-lib src/main.js",
-    "release": "npm version patch -m \"Relase: %s\"",
+    "release": "npm version patch -m \"release: %s\" && git push && git push --tags",
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
